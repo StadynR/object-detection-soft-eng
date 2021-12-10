@@ -176,7 +176,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         // Step 2: Initialize the detector object
         val options = ObjectDetector.ObjectDetectorOptions.builder()
-                .setMaxResults(12)
+                .setMaxResults(25)
                 .setScoreThreshold(0.5f)
                 .build()
         val detector = ObjectDetector.createFromFileAndOptions(
