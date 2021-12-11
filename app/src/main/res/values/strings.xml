@@ -5,6 +5,6 @@
     <string name="saveBtn">Save Result</string>
     <string name="tv_description">Select a preset image, take a new photo or select from gallery</string>
     <string name="tv_counting">Number of detected Roses: </string>
-    <string name="tv_placeholder">Red Roses Detection Demo</string>
+    <string name="tv_placeholder">Red Roses Detection and Counter App</string>
 
 </resources>
