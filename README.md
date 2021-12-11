@@ -31,4 +31,4 @@ git clone https://github.com/StadynR/object-detection-soft-eng
 # Troubleshooting
 Bugs can be reported in the issue tracker on our GitHub repo: https://github.com/StadynR/object-detection-soft-eng/...
 # License
-This project is licensed under the GNU GPLv3. See the LICENSE file for the full license information.
+This project is licensed under the MIT License. See the LICENSE file for the full license information.
