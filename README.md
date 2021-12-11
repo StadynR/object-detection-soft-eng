@@ -31,4 +31,4 @@ git clone https://github.com/team-mobile
 # Troubleshooting
 Bugs can be reported in the issue tracker on our GitHub repo: https://github.com/team-mobile
 # License
-Licensed under Android Studio. See the … file for the full license information.
+Licensed under Android Studio. See the LICENSE file for the full license information.
