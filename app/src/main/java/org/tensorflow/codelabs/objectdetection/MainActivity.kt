@@ -99,6 +99,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         imgSampleOne.setOnClickListener(this)
         imgSampleTwo.setOnClickListener(this)
         imgSampleThree.setOnClickListener(this)
+
+        saveBtn.visibility = View.INVISIBLE
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
@@ -468,7 +470,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             )
         }
         tvCounting.text = "Number of Roses Detected: $counter"
-        //saveBtn.visibility = View.VISIBLE
+        runOnUiThread{ saveBtn.visibility = View.VISIBLE }
 
         return outputBitmap
     }
