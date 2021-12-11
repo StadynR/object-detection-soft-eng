@@ -27,8 +27,8 @@ Make sure the app is already installed in your phone.
 3. The inference of the image will be done automatically
 4. Save the image or start a new inference
 # Source
-git clone https://github.com/team-mobile
+git clone https://github.com/StadynR/object-detection-soft-eng
 # Troubleshooting
-Bugs can be reported in the issue tracker on our GitHub repo: https://github.com/team-mobile
+Bugs can be reported in the issue tracker on our GitHub repo: https://github.com/StadynR/object-detection-soft-eng/...
 # License
-Licensed under Android Studio. See the LICENSE file for the full license information.
+This project is licensed under the GNU GPLv3. See the LICENSE file for the full license information.
