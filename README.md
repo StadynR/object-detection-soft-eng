@@ -1,7 +1,7 @@
 # Overview
 This project lays out an application for Android based on artificial intelligence capable of recognizing the number of roses in an image given by the user.
 # Supported Devices
-The project is developed in Android Studio Arctic Fox | 2020.3.1 Patch 3 for cell phones with the operating system "".
+The project is developed in Android Studio Arctic Fox | 2020.3.1 Patch 3 for cell phones with the operating system Android 6.0.
 # Screenshots
      
 |        Home Screen                |       Test Images                 |          Gallery Functionality    | 
