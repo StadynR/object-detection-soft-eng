@@ -36,10 +36,11 @@ This project lays out an application for Android based on artificial intelligenc
 2. Copy the apk to your phone.
 3. Search for the file and touch it to install it. If your phone asks for confirmation or permission to install the apk, accept.
 # How to change the AI model
+Replace the model.tflite file with your own model in \object-detection-soft-eng-main\app\src\main\assets 
 # Usage
 Make sure the app is already installed in your phone.
 1. Find the application on your cell phone and open it.
-2. Tap Take a Picture to take a photo using your phone's camera or Gallery to choose a photo from your phone's gallery. Alternatively, you can touch the sample photos above the buttons to select them.
+2. Tap **Take Photo** to take a photo using your phone's camera or Gallery to choose a photo from your phone's gallery. Only for the firts time, give the permisions to access gallery or camera and thap the correponding button again. Alternatively, you can touch the sample photos above the buttons to select them.
 3. The inference of the image will be done automatically, and the result will be shown in the center of the screen.
 4. You can then save the image using the Save Result button or start a new inference by repeating step 2. The photos saved from the app are stored in the Pictures/Inferences folder from your phone's internal storage.
 # Troubleshooting
