@@ -22,7 +22,7 @@ This project lays out an application for Android based on artificial intelligenc
 2. Open Android Studio
 3. Click on File -> New -> Import Project
      - **First Time using Android Studio:** Click Open an existing Android Studio project
-4. Search for the directory `final_revised` and select it.
+4. Search for the directory `object-detection-soft-eng` and select it.
 5. If you get a Gradle Sync popup, click OK and wait for it to sync.
 # Installation
 ## Install using Android Studio
@@ -43,6 +43,11 @@ Make sure the app is already installed in your phone.
 3. The inference of the image will be done automatically, and the result will be shown in the center of the screen.
 4. You can then save the image using the Save Result button or start a new inference by repeating step 2. The photos saved from the app are stored in the Pictures/Inferences folder from your phone's internal storage.
 # Troubleshooting
-Bugs can be reported in the issue tracker on our GitHub repo: https://github.com/StadynR/object-detection-soft-eng/...
+Bugs can be reported in the issue tracker on our GitHub repo: https://github.com/StadynR/object-detection-soft-eng/issues/
+# Authors of this project
+- Stadyn Román
+- Argenis Andrade
+- Jaime Astudillo
+- Javier Chipantasig
 # License
 This project is licensed under the MIT License. See the LICENSE file for the full license information.
