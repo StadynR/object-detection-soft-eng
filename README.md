@@ -40,7 +40,7 @@ In case you want to test the app using your own tflite model you just need to re
 # Usage
 Make sure the app is already installed in your phone.
 1. Find the application on your cell phone and open it.
-2. Tap **Take Photo** to take a photo using your phone's camera or **Gallery** to choose a photo from your phone's gallery. Only for the firt time, give the permisions to access gallery or camera and tap the correponding button again. Alternatively, you can touch the sample photos above the buttons to select them.
+2. Tap **Take Photo** to take a photo using your phone's camera or **Gallery** to choose a photo from your phone's gallery. Only for the first time, give the permisions to access gallery or camera and tap the correponding button again. Alternatively, you can touch the sample photos above the buttons to select them.
 3. The inference of the image will be done automatically, and the result will be shown in the center of the screen.
 4. You can then save the image using the **Save Result** button or start a new inference by repeating step 2. The photos saved from the app are stored in the Pictures/Inferences folder from your phone's internal storage.
 # Troubleshooting
