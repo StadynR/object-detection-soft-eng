@@ -36,7 +36,7 @@ This project lays out an application for Android based on artificial intelligenc
 2. Copy the apk to your phone.
 3. Search for the file and touch it to install it. If your phone asks for confirmation or permission to install the apk, accept.
 # How to change the AI model
-Replace the model.tflite file with your own model in \object-detection-soft-eng-main\app\src\main\assets 
+In case you want to test the app using your own tflite model you just need to replace the model.tflite file in \object-detection-soft-eng-main\app\src\main\assets 
 # Usage
 Make sure the app is already installed in your phone.
 1. Find the application on your cell phone and open it.
