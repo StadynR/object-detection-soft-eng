@@ -1,8 +1,8 @@
 # Overview
 This project lays out an application for Android based on artificial intelligence capable of recognizing the number of roses in an image given by the user, from either the phone's camera or gallery.
 # Requirements
-- Android Studio at least version Artic Fox 2020.3.1 Patch 3 (for cloning and editing the app)
-- Android 6.0 Marshmallow (for installing and testing in an Android phone)
+- Android Studio version Artic Fox 2020.3.1 Patch 3 or greater (for cloning and editing the app)
+- Android 6.0 Marshmallow or greater (for installing and testing in an Android phone)
 # Screenshots
      
 |        Home Screen                |       Test Images                 |          Gallery Functionality    | 
