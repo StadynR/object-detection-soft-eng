@@ -47,7 +47,7 @@ Bugs can be reported in the issue tracker on our GitHub repo: https://github.com
 # Authors of this project
 - Stadyn Román
 - Argenis Andrade
-- Jaime Astudillo
 - Javier Chipantasig
+- Jaime Astudillo
 # License
 This project is licensed under the MIT License. See the LICENSE file for the full license information.
