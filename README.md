@@ -5,13 +5,13 @@ This project lays out an application for Android based on artificial intelligenc
 - Android 6.0 Marshmallow or greater (for installing and testing in an Android phone)
 # Screenshots
      
-|        Home Screen                |       Test Images                 |          Gallery Functionality    | 
-:----------------------------------:|:---------------------------------:|:----------------------------------:
-|![Alt text](/assets/app%20(5).jpeg)|![Alt text](/assets/app%20(4).jpeg)|![Alt text](/assets/app%20(1).jpeg)|
+|        Home Screen               |       Test Images                |         Gallery Functionality    |        Gallery Permissions       | 
+:---------------------------------:|:--------------------------------:|:--------------------------------:|:---------------------------------:
+|![Alt text](/assets/App%20(1).jpg)|![Alt text](/assets/App%20(2).jpg)|![Alt text](/assets/App%20(3).jpg)|![Alt text](/assets/App%20(4).jpg)|
 
-| Inference with Gallery Image      |       Camera Functionality        |    Inference with Camera Image    | 
-:----------------------------------:|:---------------------------------:|:----------------------------------:
-|![Alt text](/assets/app%20(6).jpeg)|![Alt text](/assets/app%20(3).jpeg)|![Alt text](/assets/app%20(2).jpeg)|
+| Inference with Gallery Image     |       Camera Functionality       |       Camera Permissions         |    Inference with Camera Image   | 
+:---------------------------------:|:--------------------------------:|:--------------------------------:|:---------------------------------:
+|![Alt text](/assets/App%20(5).jpg)|![Alt text](/assets/App%20(6).jpg)|![Alt text](/assets/App%20(7).jpg)|![Alt text](/assets/App%20(8).jpg)|
 
 # Importing the Project on Android Studio
 1. Clone or download this repository:
