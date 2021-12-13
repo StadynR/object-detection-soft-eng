@@ -3,7 +3,7 @@
 ## Overview
 This project lays out an application for Android based on artificial intelligence capable of recognizing the number of roses in an image given by the user, from either the phone's camera or gallery.
 ## Requirements
-- Android Studio version Artic Fox 2020.3.1 Patch 3 or greater (for cloning and editing the app)
+- [Android Studio](https://developer.android.com/studio) version Artic Fox 2020.3.1 Patch 3 or greater (for cloning and editing the app)
 - Android 6.0 Marshmallow or greater (for installing and testing in an Android phone)
 ## Screenshots
      
@@ -41,7 +41,7 @@ This project lays out an application for Android based on artificial intelligenc
 3. In your phone, search for the apk and install it. If your phone asks for confirmation or permission to install the apk, accept.
 
 ## How to change the AI model
-In case you want to test the app using your own tflite model you just need to replace the model.tflite file in `object-detection-soft-eng-main/app/src/main/assets`
+In case you want to test the app using your own tflite model you just need to replace the `model.tflite` file in `object-detection-soft-eng-main/app/src/main/assets`
 
 ## Usage
 Make sure the app is already installed in your phone.
@@ -57,7 +57,7 @@ Bugs can be reported in the issue tracker on our GitHub repo: https://github.com
 - Stadyn Román - stadyn.roman@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/stadyn/)
 - Argenis Andrade - argenis.andrade@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/argenisraz/) 
 - Javier Chipantasig - javier.chipantasig@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/javec/)
-- Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn]()
+- Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn](.)
 
 ## License
 This project is licensed under the GPLv3 License. See the LICENSE file for the full license information.
