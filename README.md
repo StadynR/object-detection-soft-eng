@@ -57,7 +57,7 @@ Bugs can be reported in the issue tracker on our GitHub repo: https://github.com
 - Stadyn Román - stadyn.roman@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/stadyn/)
 - Argenis Andrade - argenis.andrade@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/argenisraz/) 
 - Jefferson Chipantasig - jefferson.chipantasi@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/javec/)
-- Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn](.)
+- Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/jaime-astudillo-664754228/)
 
 ## License
 This project is licensed under the GPLv3 License. See the LICENSE file for the full license information.
