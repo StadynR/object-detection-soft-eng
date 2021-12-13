@@ -56,7 +56,7 @@ Bugs can be reported in the issue tracker on our GitHub repo: https://github.com
 ## Authors of this project
 - Stadyn Román - stadyn.roman@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/stadyn/)
 - Argenis Andrade - argenis.andrade@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/argenisraz/) 
-- Javier Chipantasig - javier.chipantasig@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/javec/)
+- Jefferson Chipantasig - jefferson.chipantasi@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/javec/)
 - Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn](.)
 
 ## License
