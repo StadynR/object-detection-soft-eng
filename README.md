@@ -41,7 +41,7 @@ This project lays out an application for Android based on artificial intelligenc
 3. In your phone, search for the apk and install it. If your phone asks for confirmation or permission to install the apk, accept.
 
 ## How to change the AI model
-In case you want to test the app using your own tflite model you just need to replace the `model.tflite` file in `object-detection-soft-eng-main/app/src/main/assets`
+In case you want to test the app using your own TFLite model you just need to replace the `model.tflite` file in `object-detection-soft-eng/app/src/main/assets`. If you need to change the detection threshold for the model, do it in line 182 of `app/java/org.tensorflow.codelabs.objectdetection/MainActivity.kt` in Android Studio, inside `.setScoreThreshold()`. You can then compile/run the app again in Android Studio, or generate a new apk by clicking Build -> Build Bundle(s)/APK(s) -> Build APK(s). The apk will be stored in `object-detection-soft-eng/app/build/outputs/apk/debug/`, as `app-debug.apk`.
 
 ## Usage
 Make sure the app is already installed in your phone.
